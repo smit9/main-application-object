@@ -2,7 +2,7 @@
 Main application object for creating architecture on Jquery
 
 # how to add new module
-
+'use strict';
 MainApplication.register('YourModuleName', function (app, mediator) {
     return {
         initialize: function () {
