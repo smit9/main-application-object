@@ -5,11 +5,11 @@ Add Jquery to your project
 
 # how to add new module
 
-'use strict';
+```javascript
 
 MainApplication.register('YourModuleName', function (app, mediator) {
 
-    return {
+return {
         initialize: function () {
             $(document).ready(function () {
               // your code
@@ -18,5 +18,5 @@ MainApplication.register('YourModuleName', function (app, mediator) {
         destroy: function () {
         }
     }
-    });
-
+});
+```
