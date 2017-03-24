@@ -1,7 +1,8 @@
-# main-application-object
+# Ready architecture for a project based on Jquery
+
 Main application object for creating architecture on Jquery
 
-Add Jquery to your project 
+Necessarily add Jquery to your project.
 
 # How to add new module
 
