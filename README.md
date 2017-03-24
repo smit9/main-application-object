@@ -16,6 +16,5 @@ MainApplication.register('YourModuleName', function (app, mediator) {
         destroy: function () {
         }
     }
-    
 });
 
