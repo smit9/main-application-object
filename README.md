@@ -3,7 +3,7 @@ Main application object for creating architecture on Jquery
 
 Add Jquery to your project 
 
-# how to add new module
+# How to add new module
 
 ```javascript
 
